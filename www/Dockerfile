@@ -1,2 +1,2 @@
-from registry.k8s.io/kube-proxy:v1.25.9
+from registry.k8s.io/pause:3.8
 maintainer dyq
