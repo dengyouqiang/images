@@ -1,2 +1,2 @@
-from registry.k8s.io/pause:3.8
+from registry.k8s.io/etcd:3.5.6-0
 maintainer dyq
